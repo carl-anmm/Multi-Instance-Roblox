@@ -23,6 +23,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/carl-anmm/Multi-Instance-Roblox/stargazers"><img src="https://img.shields.io/github/stars/carl-anmm/Multi-Instance-Roblox?style=social" alt="GitHub stars"></a>
+</p>
+
+<p align="center">
   <a href="../../releases/latest"><b>⬇ Download the latest version</b></a>
 </p>
 
@@ -86,6 +90,10 @@ If you turned on **Start with Windows**, turn it off in the app first. Then quit
 ## How it works
 
 Roblox makes sure only one client runs by creating a named Windows object. A new client that finds it hands off to the existing one and closes. This app claims that name before Roblox can. If Roblox is already running, the app locks the existing object so new clients can't see it. When you turn the app off or quit it, everything goes back to normal.
+
+## ⭐ Like it?
+
+If Roblox Multi-Instance is useful to you, please **give it a star** ⭐ at the top of this page. It's free, takes one click, and helps other players find the app.
 
 ## Changelog
 
